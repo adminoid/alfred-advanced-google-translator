@@ -1,0 +1,16 @@
+{
+    "name": "adminoid/alfred-advanced-google-translator",
+    "description": "Advanced file translator for Alfred app",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr Zenin",
+            "email": "mr@adminoid.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3@dev"
+    }
+}
